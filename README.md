@@ -17,3 +17,11 @@ Vanlig brödtext.
 1. numrerad
 2. en till numrerad
 3. fortsätt numrera
+
+`public static void main(String[] args)`
+
+```
+String userName = "Oskar";
+int userAge = 32;
+System.out.println("Hejsan " + userName + " som är " + userAge + "år gammal!");
+```
